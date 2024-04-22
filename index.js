@@ -1,1 +1,1 @@
-console.log(" The main file to execute and run  javasscript ");
+console.log(" The main file to execute and run the  javasscript ");
